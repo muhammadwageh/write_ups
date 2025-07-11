@@ -146,7 +146,6 @@ PUT -> https://www.examble.com/api/user
 5. [Use Burp Suite to intercept the HTTP request sent to the name change endpoint (e.g., PUT /api/user).] Modify the Request: 
 6. [In the intercepted request, locate the X-heade-User-Id header (e.g., X-header-User-Id: attacker_user_id).]
 7. [Replace it with the victim’s 19-digit user ID obtained from the desktop application (e.g., X-header-User-Id: 12345xxxxxxxxxxxxxxxx).]
-8. <img width="1422" height="692" alt="2025-07-10 22_58_54-firstRequest" src="https://github.com/user-attachments/assets/32ee7391-d69c-46b8-8683-01758d7102a5" />
 <img width="1452" height="738" alt="2025-07-10 23_01_40-changeid" src="https://github.com/user-attachments/assets/088bef5c-3147-4348-b217-ed75cba65d58" />
 <img width="1450" height="756" alt="2025-07-10 23_00_29-firstResponse" src="https://github.com/user-attachments/assets/badbf239-a075-4460-a99c-abe1358618a1" />
 
