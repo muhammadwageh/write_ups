@@ -20,7 +20,9 @@ and the live domain all of them the status code is 403 and with authentication e
 
 ### I Accessed all the SQL DATABASE and get the username and password so i report it as quickly and it's resolved.
 
-<img width="313" height="544" alt="Edit1" src="https://github.com/user-attachments/assets/9e70b45b-c5e0-4fac-b9d7-02612f671582" />
+<img width="313" height="544" alt="EDIT" src="https://github.com/user-attachments/assets/fa211429-25c7-4533-a194-c973b28bb35e" />
+
+<img width="1011" height="319" alt="Edit2" src="https://github.com/user-attachments/assets/b4bb579b-be87-4d9a-a237-4977a9ab832c" />
 
 
 cheers:
