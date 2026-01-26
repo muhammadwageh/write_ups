@@ -4,7 +4,7 @@
 
 my profiles:
 
-Hackerone: https://hackerone.com/muhammad_wageh_
+Hackerone: https://hackerone.com/muhammad_wageh_/hacktivity?type=user
 
 LinkedIn:
 https://www.linkedin.com/in/muhammad-wageh-55743a28a/
