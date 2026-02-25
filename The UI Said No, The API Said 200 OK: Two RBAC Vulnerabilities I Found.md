@@ -21,7 +21,8 @@ GET /api/v1/incidents/{incident_id}
 The response was **200 OK**, which means the incident data was accessible through the backend API.
 
 
-<img width="1658" height="747" alt="READ" src="https://github.com/user-attachments/assets/9b605d53-f641-4a9d-bab0-c047aca8bdcb" />
+<img width="1648" height="760" alt="pic" src="https://github.com/user-attachments/assets/7a4849f8-fdfc-4de1-8258-447879d84ab1" />
+
 
 
 When I reported it, the triager said the attack complexity is low because it would be difficult to enumerate or obtain all incident IDs. I explained that I reported it because it is a backend API misconfiguration.
