@@ -2,7 +2,7 @@ Hey Everyone!
 
 It's $500 for a single IDOR, so let's get into the point!
 
-After spending some time on the application in `Examble`, I created a new `Examble` and tried to create, read, update, and delete for another user by simply changing the `Examble` ID to another one!
+After spending some time on the application in `Example`, I created a new `Example` and tried to create, read, update, and delete for another user by simply changing the `Example` ID to another one!
 
 CREATE -> 403 Forbidden  
 UPDATE -> 403 Forbidden  
@@ -13,7 +13,7 @@ DELETE -> 403 Forbidden
 
 READ -> 200 OK  
 
-`GET /api/Exable/{examble_uuid}`  
+`GET /api/Exable/{Example_uuid}`  
 
 <img width="1221" height="260" alt="2026-03-20_21-00" src="https://github.com/user-attachments/assets/353226b7-7879-4090-aaee-3616efbc0850" />
 
