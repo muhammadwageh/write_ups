@@ -13,7 +13,7 @@ DELETE -> 403 Forbidden
 
 READ -> 200 OK  
 
-`GET /api/Exable/{Example_uuid}`  
+`GET /api/Example/{Example_uuid}`  
 
 <img width="1221" height="260" alt="2026-03-20_21-00" src="https://github.com/user-attachments/assets/353226b7-7879-4090-aaee-3616efbc0850" />
 
